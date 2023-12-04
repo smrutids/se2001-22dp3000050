@@ -1,7 +1,7 @@
-echo "# vmtask" >> README.md
+echo "# se2001-22dp3000050" >> README.md
   git init
   git add README.md
   git commit -m "first commit"
   git branch -M main
-  git remote add origin https://github.com/smrutids/vmtask.git
+  git remote add origin https://github.com/smrutids/se2001-22dp3000050.git
   git push -u origin main
